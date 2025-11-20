@@ -1,1 +1,1 @@
-demonstrating auto-trigger after code-p
+demonstrating auto-trigger after cod
