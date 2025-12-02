@@ -1,3 +1,10 @@
+
+nagios experiment
+
+docker pull jasonrivers/nagios:latest
+docker run -d --name nagios -p 8888:80 jasonrivers/nagios:latest
+
+
 AWS Experiment
 For this we have three methods:
  1. We will use the PuTTY to convert .pem file(The key which we downloaded while creating the instance) to .ppk and launch it on our local  System/machine
